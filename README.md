@@ -1,40 +1,25 @@
 💳 Financial Fraud Detection using Logistic Regression
 
-📌 Project Overview
+1. 📌 Project Overview
 
-This project focuses on detecting fraudulent financial transactions using a Logistic Regression Machine Learning model.
+      This project focuses on detecting fraudulent financial transactions using a Logistic Regression Machine Learning model.Financial companies process thousands of
+      transactions every day, and identifying fraudulent activities manually is difficult.
 
-Financial companies process thousands of transactions every day, and identifying fraudulent activities manually is difficult.
+      This project helps predict whether a transaction is:✅ Fraudulent Transaction OR ✅ Genuine Transaction using historical transaction data.
 
-This project helps predict whether a transaction is:
+2. 🎯 Problem Statement
 
-✅ Fraudulent Transaction
+      Fraudulent transactions cause major financial losses to banks and financial institutions.The objective of this project is to:
+      Analyze customer transaction patterns                                                                                                                                 
+      Detect suspicious transactions                                                                                                                                         
+      Build a Machine Learning model using Logistic Regression                                                                                                               
+      Predict whether future transactions are fraud or not
 
-OR
+3. 🧠 Machine Learning Algorithm used - Logistic Regression
 
-✅ Genuine Transaction
-using historical transaction data.
+      Logistic Regression is a supervised Machine Learning algorithm used for:
 
-🎯 Problem Statement
-
-Fraudulent transactions cause major financial losses to banks and financial institutions.
-
-The objective of this project is to:
-
-Analyze customer transaction patterns
-Detect suspicious transactions
-Build a Machine Learning model using Logistic Regression
-Predict whether future transactions are fraud or not
-
-🧠 Machine Learning Algorithm Used
-Logistic Regression
-
-Logistic Regression is a supervised Machine Learning algorithm used for:
-
-Binary Classification Problems
-Fraud Detection
-Spam Detection
-Disease Prediction
+      Binary Classification Problems, Fraud Detection, Spam Detection, Disease Prediction
 
 In this project:
 
@@ -46,7 +31,7 @@ In this project:
     <img src="https://img.shields.io/badge/Fraud transaction-Preview-green" />
   </a>
 
-🗂️ Dataset Information
+4. 🗂️ Dataset Information
 
 Dataset Name: fraud_transactions.csv
 
@@ -57,7 +42,7 @@ Total Columns: 12
 📊 Dataset Columns
 
 Column_Name    	Description
-transaction_id	Unique transaction ID
+transaction_id	   Unique transaction ID
 transaction_type Type of transaction
 amount	         Transaction amount
 customer_age	   Age of customer
