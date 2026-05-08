@@ -2,20 +2,20 @@
 
 1. 📌 Project Overview
 
-      This project focuses on detecting fraudulent financial transactions using a Logistic Regression Machine Learning model.Financial companies process thousands of
-      transactions every day, and identifying fraudulent activities manually is difficult.
+      This project focuses on detecting fraudulent financial transactions using a Logistic Regression Machine Learning
+      model.Financial companies process thousands of transactions every day, and identifying fraudulent activities manually
+      is difficult.
 
-      This project helps predict whether a transaction is:✅ Fraudulent Transaction OR ✅ Genuine Transaction using historical transaction data.
+      This project helps predict whether a transaction is:✅ Fraudulent Transaction OR ✅ Genuine Transaction using
+      historical transaction data.
 
-2. 🎯 Problem Statement
+3. 🎯 Problem Statement
 
-      Fraudulent transactions cause major financial losses to banks and financial institutions.The objective of this project is to:
-      Analyze customer transaction patterns                                                                                                                                 
-      Detect suspicious transactions                                                                                                                                         
-      Build a Machine Learning model using Logistic Regression                                                                                                               
-      Predict whether future transactions are fraud or not
+      Fraudulent transactions cause major financial losses to banks and financial institutions.The objective of this project
+      is to: Analyze customer transaction patterns , Detect suspicious transactions, Build a Machine Learning model using
+      Logistic Regression, Predict whether future transactions are fraud or not
 
-3. 🧠 Machine Learning Algorithm used - Logistic Regression
+5. 🧠 Machine Learning Algorithm used - Logistic Regression
 
       Logistic Regression is a supervised Machine Learning algorithm used for:
 
@@ -56,14 +56,12 @@ international_transaction	Yes/No
 fraud	            Target column (1 = Fraud, 0 = Genuine)
 
 ⚙️ Technologies Used
-
-Technology	Purpose
-Python	    Programming Language
-Pandas	    Data Handling
-NumPy	      Numerical Operations
-Seaborn	    Data Visualization
-Matplotlib	Charts and Graphs
-Scikit-learn Machine Learning
-Jupyter Notebook	Development Environment         
+Python,	   
+Pandas,	   
+NumPy,   
+Seaborn,	   
+Matplotlib,
+Scikit-learn, 
+Jupyter Notebook	         
 
   Follow Logistic Regression Project Code Jupyter notebook for coding and analysis
