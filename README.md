@@ -66,4 +66,4 @@ Matplotlib	Charts and Graphs
 Scikit-learn Machine Learning
 Jupyter Notebook	Development Environment         
 
-  Follow Linear Regression Project Code Jupyter notebook for coding and analysis
+  Follow Logistic Regression Project Code Jupyter notebook for coding and analysis
